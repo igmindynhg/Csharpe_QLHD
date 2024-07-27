@@ -1,0 +1,17 @@
+E:\Learn\Csharpe\QLHD\QLHD\bin\Debug\QLHD.exe.config
+E:\Learn\Csharpe\QLHD\QLHD\bin\Debug\QLHD.exe
+E:\Learn\Csharpe\QLHD\QLHD\bin\Debug\QLHD.pdb
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.csproj.AssemblyReference.cache
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.Properties.Resources.resources
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.csproj.GenerateResource.cache
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.csproj.CoreCompileInputs.cache
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.exe
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.pdb
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.Home.resources
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.ChangePassword.resources
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.Change.resources
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.Login.resources
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.TrangSanPham.resources
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.TrangTaiKhoan.resources
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.TaoHoaDon.resources
+E:\Learn\Csharpe\QLHD\QLHD\obj\Debug\QLHD.XemHD.resources
